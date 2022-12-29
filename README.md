@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joker13ru
 - 👀 I’m interested in foreign languages and anime
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Worrld of Warcraft
+- 💞️ I’m looking to collaborate on World of Warcraft
 - 📫 How to reach me - just write yursolovyov@gmail.com
 
 <!---
